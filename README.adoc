@@ -1,7 +1,4 @@
-# BI-PA1 repozitář
+# C and C++ Repository
 
-Ahoj studente,
-
-toto je tvůj oficiální repozitář k předmětu https://courses.fit.cvut.cz/BI-PA1/[BI-PA1]. Repozitář ti byl vygenerován automaticky a je doporučené ho aktivně využívat (např. pro verzování svých domácích úkolů). Struktura repozitáře je na tobě, doporučujeme postupovat dle https://courses.fit.cvut.cz/BI-GIT/pa1.html[informací z předmětu BI-GIT], obzvláště pokud tento předmět máš v tomto semestru zapsaný.
-
-Pokud si nejsi jistý, jak pracovat se systémem Git, můžeš se podívat na materiály předmětu https://courses.fit.cvut.cz/BI-GIT/[BI-GIT].
+Mainly school anc course work on simple C projects focused on parsing and manual memory management.
+And for C++ some algorithm and structures work like BFS, DFS, LinkedLists, Node trees,...
