@@ -1,0 +1,52 @@
+Mapa:
+Pozemky:
+Nejlevnejsi: -2192
+ * (206,115)
+Nejlevnejsi: -3642
+ * (65,35)
+Nejlevnejsi: -2111
+ * (224,144)
+Nejlevnejsi: -3339
+ * (9,74)
+Nejlevnejsi: -3156
+ * (80,75)
+Nejlevnejsi: -2160
+ * (238,146)
+Nejlevnejsi: -3058
+ * (79,67)
+Nejlevnejsi: -1319
+ * (363,418)
+Nejlevnejsi: -1268
+ * (365,418)
+Nejlevnejsi: -3107
+ * (95,85)
+Nejlevnejsi: -3434
+ * (69,35)
+Nejlevnejsi: -3422
+ * (68,35)
+Nejlevnejsi: -1986
+ * (249,158)
+Nejlevnejsi: -1372
+ * (361,418)
+Nejlevnejsi: -2220
+ * (1,16)
+Nejlevnejsi: -2913
+ * (22,75)
+Nejlevnejsi: -2756
+ * (1,19)
+Nejlevnejsi: -3176
+ * (95,115)
+Nejlevnejsi: -3720
+ * (8,78)
+Nejlevnejsi: -3590
+ * (66,35)
+Nejlevnejsi: -3623
+ * (1,75)
+Nejlevnejsi: -3485
+ * (17,102)
+Nejlevnejsi: -2160
+ * (238,146)
+Nejlevnejsi: -277
+ * (295,359)
+Nejlevnejsi: -2973
+ * (32,75)

@@ -1,0 +1,229 @@
+Mapa:
+Pozemky:
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 21
+ * (0,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: 21
+ * (0,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 21
+ * (0,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: 21
+ * (0,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: 21
+ * (0,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -36
+ * (6,2)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 0
+ * (0,0)
+Nejlevnejsi: -19
+ * (3,0)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: -34
+ * (4,0)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: -10
+ * (7,2)
+ * (8,4)
+ * (0,6)
+ * (5,6)
+Nejlevnejsi: -19
+ * (3,2)
+Nejlevnejsi: 86
+ * (0,0)
+Nejlevnejsi: 8
+ * (2,0)
+Nejlevnejsi: -35
+ * (5,1)
+Nejlevnejsi: 86
+ * (0,0)

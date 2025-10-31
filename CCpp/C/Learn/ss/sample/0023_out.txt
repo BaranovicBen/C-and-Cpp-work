@@ -1,0 +1,105 @@
+Mapa:
+Pozemky:
+Nejlevnejsi: -769
+ * (2,3)
+Nejlevnejsi: -1601
+ * (128,79)
+Nejlevnejsi: -482
+ * (130,110)
+Nejlevnejsi: -1849
+ * (100,80)
+Nejlevnejsi: -1803
+ * (90,79)
+Nejlevnejsi: -1760
+ * (118,107)
+Nejlevnejsi: -68
+ * (226,202)
+Nejlevnejsi: -174
+ * (225,199)
+Nejlevnejsi: -769
+ * (2,3)
+Nejlevnejsi: -1434
+ * (23,11)
+Nejlevnejsi: -1208
+ * (118,110)
+Nejlevnejsi: -1353
+ * (126,92)
+Nejlevnejsi: -485
+ * (138,107)
+Nejlevnejsi: -518
+ * (137,106)
+Nejlevnejsi: -1455
+ * (33,12)
+Nejlevnejsi: -1491
+ * (33,11)
+Nejlevnejsi: -1843
+ * (89,14)
+Nejlevnejsi: -1662
+ * (130,75)
+Nejlevnejsi: -1794
+ * (89,79)
+ * (90,79)
+Nejlevnejsi: -1572
+ * (50,15)
+Nejlevnejsi: -1662
+ * (130,75)
+Nejlevnejsi: -939
+ * (125,104)
+Nejlevnejsi: -1380
+ * (66,34)
+Nejlevnejsi: -1853
+ * (118,105)
+Nejlevnejsi: -427
+ * (129,111)
+ * (131,111)
+Nejlevnejsi: -1297
+ * (22,11)
+Nejlevnejsi: -1319
+ * (16,2)
+Nejlevnejsi: -1539
+ * (34,1)
+Nejlevnejsi: -1343
+ * (118,87)
+Nejlevnejsi: -1982
+ * (74,79)
+Nejlevnejsi: -310
+ * (19,29)
+Nejlevnejsi: -1618
+ * (48,15)
+Nejlevnejsi: -836
+ * (128,92)
+Nejlevnejsi: -685
+ * (133,101)
+Nejlevnejsi: -1575
+ * (32,2)
+Nejlevnejsi: -1318
+ * (34,2)
+Nejlevnejsi: -1297
+ * (10,0)
+Nejlevnejsi: -1380
+ * (66,34)
+Nejlevnejsi: -2030
+ * (121,79)
+Nejlevnejsi: -771
+ * (181,105)
+Nejlevnejsi: -1345
+ * (55,26)
+Nejlevnejsi: -420
+ * (14,26)
+Nejlevnejsi: -801
+ * (2,2)
+Nejlevnejsi: -485
+ * (138,107)
+Nejlevnejsi: -2071
+ * (118,107)
+Nejlevnejsi: -1312
+ * (17,5)
+Nejlevnejsi: -1901
+ * (97,79)
+Nejlevnejsi: -1954
+ * (130,86)
+Nejlevnejsi: -1588
+ * (34,2)
+Nejlevnejsi: -916
+ * (125,101)
+ * (125,110)

@@ -1,0 +1,3 @@
+Rectangle #1:
+Rectangle #2:
+The area is the same.

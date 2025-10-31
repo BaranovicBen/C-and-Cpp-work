@@ -1,0 +1,359 @@
+Ceny, hledani:
+Nejvyssi zisk: 82 (5 - 6)
+Nejvyssi ztrata: 78 (4 - 5)
+Nejvyssi zisk: 82 (5 - 6)
+Nejvyssi ztrata: 78 (4 - 5)
+Nejvyssi zisk: 45 (3 - 4)
+Nejvyssi ztrata: 84 (4 - 10)
+Nejvyssi zisk: 45 (3 - 4)
+Nejvyssi ztrata: 69 (4 - 7)
+Nejvyssi zisk: 70 (4 - 7)
+Nejvyssi ztrata: 90 (7 - 8)
+Nejvyssi zisk: 85 (8 - 13)
+Nejvyssi ztrata: 90 (7 - 8)
+Nejvyssi zisk: 68 (15 - 17)
+Nejvyssi ztrata: 71 (13 - 15)
+Nejvyssi zisk: 61 (12 - 13)
+Nejvyssi ztrata: 67 (13 - 14)
+Nejvyssi zisk: 68 (15 - 17)
+Nejvyssi ztrata: 71 (13 - 15)
+Nejvyssi zisk: 62 (8 - 9)
+Nejvyssi ztrata: 37 (7 - 8)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 60 (17 - 18)
+Nejvyssi ztrata: 83 (12 - 17)
+Nejvyssi zisk: 59 (10 - 12)
+Nejvyssi ztrata: 58 (9 - 10)
+Nejvyssi zisk: 69 (8 - 10)
+Nejvyssi ztrata: 84 (5 - 8)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 79 (1 - 2)
+Nejvyssi ztrata: 48 (2 - 4)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 15 (0 - 1)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 64 (15 - 16)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 94 (10 - 12)
+Nejvyssi ztrata: 95 (9 - 10)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 33 (7 - 8)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 43 (3 - 4)
+Nejvyssi ztrata: 66 (2 - 3)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 98 (5 - 12)
+Nejvyssi ztrata: 97 (9 - 11)
+Nejvyssi zisk: 69 (5 - 9)
+Nejvyssi ztrata: 86 (2 - 5)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 58 (8 - 9)
+Nejvyssi zisk: 14 (15 - 17)
+Nejvyssi ztrata: 79 (10 - 18)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 9 (13 - 14)
+Nejvyssi zisk: 16 (7 - 8)
+Nejvyssi ztrata: 68 (8 - 10)
+Nejvyssi zisk: 67 (5 - 8)
+Nejvyssi ztrata: 68 (8 - 10)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 54 (8 - 13)
+Nejvyssi ztrata: 50 (7 - 8)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 62 (0 - 3)
+Nejvyssi ztrata: 40 (3 - 5)
+Nejvyssi zisk: 38 (4 - 5)
+Nejvyssi ztrata: 51 (5 - 9)
+Nejvyssi zisk: 68 (9 - 11)
+Nejvyssi ztrata: 62 (11 - 12)
+Nejvyssi zisk: 68 (9 - 11)
+Nejvyssi ztrata: 51 (5 - 9)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 68 (11 - 14)
+Nejvyssi zisk: 24 (2 - 3)
+Nejvyssi ztrata: 6 (1 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 6 (3 - 4)
+Nejvyssi zisk: 52 (0 - 5)
+Nejvyssi ztrata: 6 (3 - 4)
+Nejvyssi zisk: 66 (0 - 6)
+Nejvyssi ztrata: 6 (3 - 4)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 18 (10 - 11)
+Nejvyssi zisk: 70 (1 - 2)
+Nejvyssi ztrata: 40 (2 - 3)
+Nejvyssi zisk: 70 (1 - 2)
+Nejvyssi ztrata: 81 (2 - 6)
+Nejvyssi zisk: 66 (4 - 5)
+Nejvyssi ztrata: 80 (5 - 6)
+Nejvyssi zisk: 78 (5 - 8)
+Nejvyssi ztrata: 29 (6 - 7)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 50 (3 - 4)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 75 (5 - 8)
+Nejvyssi ztrata: 3 (4 - 5)
+Nejvyssi zisk: 93 (0 - 8)
+Nejvyssi ztrata: 53 (1 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 51 (12 - 14)
+Nejvyssi zisk: 47 (14 - 15)
+Nejvyssi ztrata: 49 (13 - 14)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 34 (0 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 64 (5 - 7)
+Nejvyssi ztrata: 67 (7 - 10)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 24 (8 - 9)
+Nejvyssi ztrata: 18 (6 - 8)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 3 (0 - 1)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 67 (10 - 14)
+Nejvyssi ztrata: 50 (2 - 10)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 6 (2 - 3)
+Nejvyssi ztrata: 48 (3 - 4)
+Nejvyssi zisk: 43 (1 - 3)
+Nejvyssi ztrata: 24 (0 - 1)
+Nejvyssi zisk: 60 (4 - 6)
+Nejvyssi ztrata: 94 (6 - 9)
+Nejvyssi zisk: 60 (4 - 6)
+Nejvyssi ztrata: 94 (6 - 9)
+Nejvyssi zisk: 85 (12 - 13)
+Nejvyssi ztrata: 98 (6 - 12)
+Nejvyssi zisk: 85 (12 - 13)
+Nejvyssi ztrata: 76 (13 - 14)
+Nejvyssi zisk: 10 (15 - 16)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 19 (0 - 1)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 73 (3 - 4)
+Nejvyssi ztrata: 47 (4 - 5)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 28 (5 - 6)
+Nejvyssi zisk: 71 (0 - 8)
+Nejvyssi ztrata: 56 (6 - 7)
+Nejvyssi zisk: 60 (7 - 8)
+Nejvyssi ztrata: 56 (6 - 7)
+Nejvyssi zisk: 13 (0 - 1)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 60 (3 - 4)
+Nejvyssi ztrata: 33 (4 - 5)
+Nejvyssi zisk: 61 (2 - 5)
+Nejvyssi ztrata: 81 (5 - 7)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 39 (3 - 4)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 13 (2 - 3)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 34 (2 - 3)
+Nejvyssi ztrata: 64 (0 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 11 (1 - 2)
+Nejvyssi ztrata: 5 (2 - 3)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 54 (9 - 10)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 54 (9 - 10)
+Nejvyssi ztrata: 85 (8 - 9)
+Nejvyssi zisk: 74 (9 - 10)
+Nejvyssi ztrata: 58 (7 - 9)
+Nejvyssi zisk: 74 (9 - 10)
+Nejvyssi ztrata: 58 (7 - 9)
+Nejvyssi zisk: 59 (3 - 7)
+Nejvyssi ztrata: 54 (2 - 3)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 2 (10 - 11)
+Nejvyssi zisk: 48 (2 - 3)
+Nejvyssi ztrata: 26 (1 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 56 (1 - 3)
+Nejvyssi ztrata: 33 (0 - 1)
+Nejvyssi zisk: 60 (0 - 1)
+Nejvyssi ztrata: 36 (1 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 9 (1 - 2)
+Nejvyssi ztrata: 48 (0 - 1)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 48 (0 - 1)
+Nejvyssi zisk: 9 (1 - 2)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 70 (6 - 8)
+Nejvyssi ztrata: 71 (4 - 6)
+Nejvyssi zisk: 20 (9 - 10)
+Nejvyssi ztrata: 34 (8 - 9)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 98 (12 - 13)
+Nejvyssi zisk: 14 (1 - 3)
+Nejvyssi ztrata: 66 (3 - 6)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 61 (7 - 8)
+Nejvyssi ztrata: 76 (8 - 12)
+Nejvyssi zisk: 19 (10 - 11)
+Nejvyssi ztrata: 34 (11 - 12)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 6 (13 - 14)
+Nejvyssi ztrata: 58 (14 - 15)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 59 (1 - 2)
+Nejvyssi ztrata: 52 (2 - 5)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: 22 (3 - 4)
+Nejvyssi zisk: 33 (0 - 5)
+Nejvyssi ztrata: 19 (3 - 4)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 17 (2 - 3)
+Nejvyssi ztrata: 23 (1 - 2)
+Nejvyssi zisk: 66 (10 - 11)
+Nejvyssi ztrata: 86 (7 - 10)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 5 (3 - 4)
+Nejvyssi ztrata: 47 (2 - 3)
+Nejvyssi zisk: 61 (2 - 6)
+Nejvyssi ztrata: 75 (0 - 2)
+Nejvyssi zisk: 65 (8 - 9)
+Nejvyssi ztrata: 92 (0 - 11)
+Nejvyssi zisk: 65 (8 - 9)
+Nejvyssi ztrata: 74 (9 - 11)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 75 (3 - 5)
+Nejvyssi ztrata: 60 (0 - 3)
+Nejvyssi zisk: 94 (7 - 8)
+Nejvyssi ztrata: 97 (8 - 9)
+Nejvyssi zisk: 94 (7 - 8)
+Nejvyssi ztrata: 87 (6 - 7)
+Nejvyssi zisk: 94 (7 - 8)
+Nejvyssi ztrata: 97 (8 - 9)
+Nejvyssi zisk: 94 (7 - 8)
+Nejvyssi ztrata: 97 (8 - 9)
+Nejvyssi zisk: 18 (5 - 6)
+Nejvyssi ztrata: 82 (6 - 7)
+Nejvyssi zisk: 18 (5 - 6)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 6 (7 - 8)
+Nejvyssi ztrata: 82 (6 - 7)
+Nejvyssi zisk: 54 (0 - 4)
+Nejvyssi ztrata: 72 (4 - 7)
+Nejvyssi zisk: 86 (10 - 13)
+Nejvyssi ztrata: 76 (7 - 10)
+Nejvyssi zisk: 71 (4 - 5)
+Nejvyssi ztrata: 79 (5 - 8)
+Nejvyssi zisk: 85 (8 - 11)
+Nejvyssi ztrata: 29 (11 - 14)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 85 (1 - 3)
+Nejvyssi ztrata: 49 (0 - 1)
+Nejvyssi zisk: 73 (9 - 11)
+Nejvyssi ztrata: 74 (8 - 9)
+Nejvyssi zisk: 22 (11 - 12)
+Nejvyssi ztrata: 16 (10 - 11)
+Nejvyssi zisk: 31 (9 - 12)
+Nejvyssi ztrata: 66 (6 - 13)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 58 (7 - 12)
+Nejvyssi ztrata: 77 (5 - 7)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 3 (0 - 1)
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 53 (4 - 5)
+Nejvyssi ztrata: 61 (5 - 6)
+Nejvyssi zisk: 53 (4 - 5)
+Nejvyssi ztrata: 71 (5 - 9)
+Nejvyssi zisk: 27 (0 - 1)
+Nejvyssi ztrata: 9 (1 - 2)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A
+Nejvyssi zisk: 84 (2 - 3)
+Nejvyssi ztrata: 54 (0 - 2)
+Nejvyssi zisk: 91 (5 - 6)
+Nejvyssi ztrata: 73 (6 - 7)
+Nejvyssi zisk: N/A
+Nejvyssi ztrata: N/A

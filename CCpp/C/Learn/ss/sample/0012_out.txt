@@ -1,0 +1,4 @@
+Mapa:
+Pozemky:
+Nejlevnejsi: 5
+ * (0,0)

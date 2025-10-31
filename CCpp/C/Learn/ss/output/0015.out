@@ -1,0 +1,20 @@
+Nejlevnejsi: -2
+* (1, 1)
+* (1, 3)
+* (3, 1)
+* (3, 3)
+Nejlevnejsi: 1
+* (0, 0)
+* (0, 3)
+* (3, 0)
+* (3, 3)
+Nejlevnejsi: 3
+* (1, 1)
+Nejlevnejsi: 10
+* (0, 0)
+* (0, 1)
+* (1, 0)
+* (1, 1)
+Nejlevnejsi: 19
+* (0, 0)
+Neexistuje.

@@ -1,0 +1,20 @@
+Mapa:
+Pozemky:
+Nejlevnejsi: -163
+ * (993,448)
+Nejlevnejsi: -105
+ * (877,422)
+Nejlevnejsi: -239
+ * (553,231)
+Nejlevnejsi: -1598
+ * (163,485)
+Nejlevnejsi: -1051
+ * (181,502)
+Nejlevnejsi: -1281
+ * (184,501)
+Nejlevnejsi: -2228
+ * (147,482)
+Nejlevnejsi: -1281
+ * (184,501)
+Nejlevnejsi: -881
+ * (181,516)
